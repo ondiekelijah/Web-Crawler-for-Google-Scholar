@@ -1,0 +1,582 @@
+1617714650979	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilea4gMUF"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+Sandbox: unsupported fd-relative fstatat(27, "", 0x7FFD57087200, 4096)
+Sandbox: unsupported fd-relative fstatat(27, "", 0x7FFEFE2ACC80, 4096)
+Sandbox: seccomp sandbox violation: pid 7578, tid 7578, syscall 262, args 27 140338022396690 140726063624704 4096 4096 1.
+Sandbox: seccomp sandbox violation: pid 7650, tid 7650, syscall 262, args 27 140480385049362 140733162638464 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(27, "", 0x7FFD57087100, 4096)
+Sandbox: seccomp sandbox violation: pid 7578, tid 7578, syscall 262, args 27 140338022396690 140726063624448 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(27, "", 0x7FFEFE2ACB80, 4096)
+Sandbox: seccomp sandbox violation: pid 7650, tid 7650, syscall 262, args 27 140480385049362 140733162638208 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(27, "", 0x7FFD57087160, 4096)
+Sandbox: unsupported fd-relative fstatat(27, "", 0x7FFEFE2ACBE0, 4096)
+Sandbox: seccomp sandbox violation: pid 7578, tid 7578, syscall 262, args 27 140338022396690 140726063624544 4096 4096 1.
+Sandbox: seccomp sandbox violation: pid 7650, tid 7650, syscall 262, args 27 140480385049362 140733162638304 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(27, "", 0x7FFEFE2AC400, 4096)
+Sandbox: seccomp sandbox violation: pid 7650, tid 7650, syscall 262, args 27 140480385049362 140733162636288 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(27, "", 0x7FFD57086980, 4096)
+Sandbox: seccomp sandbox violation: pid 7578, tid 7578, syscall 262, args 27 140338022396690 140726063622528 4096 4096 1.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1617714672350	Marionette	INFO	Listening on port 38583
+1617714672432	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1617966620687	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileM0iZ0x"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+Sandbox: unsupported fd-relative fstatat(26, "", 0x7FFFE4113300, 4096)
+Sandbox: seccomp sandbox violation: pid 7515, tid 7515, syscall 262, args 26 139729687184146 140737019720448 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(25, "", 0x7FFF8D372780, 4096)
+Sandbox: seccomp sandbox violation: pid 7520, tid 7520, syscall 262, args 25 139968973071122 140735562590080 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(25, "", 0x7FFF8D372680, 4096)
+Sandbox: seccomp sandbox violation: pid 7520, tid 7520, syscall 262, args 25 139968973071122 140735562589824 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(26, "", 0x7FFFE4113200, 4096)
+Sandbox: seccomp sandbox violation: pid 7515, tid 7515, syscall 262, args 26 139729687184146 140737019720192 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(26, "", 0x7FFFE4113260, 4096)
+Sandbox: seccomp sandbox violation: pid 7515, tid 7515, syscall 262, args 26 139729687184146 140737019720288 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(25, "", 0x7FFF8D3726E0, 4096)
+Sandbox: seccomp sandbox violation: pid 7520, tid 7520, syscall 262, args 25 139968973071122 140735562589920 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(25, "", 0x7FFF8D371F00, 4096)
+Sandbox: seccomp sandbox violation: pid 7520, tid 7520, syscall 262, args 25 139968973071122 140735562587904 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(26, "", 0x7FFFE4112A80, 4096)
+Sandbox: seccomp sandbox violation: pid 7515, tid 7515, syscall 262, args 26 139729687184146 140737019718272 4096 4096 1.
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 636))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+1617966643665	Marionette	INFO	Listening on port 42333
+1617966643771	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+1617968798242	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVg4kbh"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+Sandbox: unsupported fd-relative fstatat(27, "", 0x7FFEDAB9A390, 4096)
+Sandbox: seccomp sandbox violation: pid 4483, tid 4483, syscall 262, args 27 139632260956946 140732568019856 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(27, "", 0x7FFEDAB9A290, 4096)
+Sandbox: seccomp sandbox violation: pid 4483, tid 4483, syscall 262, args 27 139632260956946 140732568019600 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(26, "", 0x7FFF2DD8EE30, 4096)
+Sandbox: seccomp sandbox violation: pid 4478, tid 4478, syscall 262, args 26 140255363343122 140733962579504 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(26, "", 0x7FFF2DD8ED30, 4096)
+Sandbox: seccomp sandbox violation: pid 4478, tid 4478, syscall 262, args 26 140255363343122 140733962579248 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(26, "", 0x7FFF2DD8ED90, 4096)
+Sandbox: unsupported fd-relative fstatat(27, "", 0x7FFEDAB9A2F0, 4096)
+Sandbox: seccomp sandbox violation: pid 4478, tid 4478, syscall 262, args 26 140255363343122 140733962579344 4096 4096 1.
+Sandbox: seccomp sandbox violation: pid 4483, tid 4483, syscall 262, args 27 139632260956946 140732568019696 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(26, "", 0x7FFF2DD8E5B0, 4096)
+Sandbox: seccomp sandbox violation: pid 4478, tid 4478, syscall 262, args 26 140255363343122 140733962577328 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(27, "", 0x7FFEDAB99B10, 4096)
+Sandbox: seccomp sandbox violation: pid 4483, tid 4483, syscall 262, args 27 139632260956946 140732568017680 4096 4096 1.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1617968803358	Marionette	INFO	Listening on port 41951
+1617968803394	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+1617968807532	Marionette	INFO	Stopped listening on port 41951
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+1617968825144	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLEwWL7"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+Sandbox: unsupported fd-relative fstatat(26, "", 0x7FFEBC0841C0, 4096)
+Sandbox: seccomp sandbox violation: pid 4761, tid 4761, syscall 262, args 26 140248769291026 140732053078464 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(26, "", 0x7FFEBC0840C0, 4096)
+Sandbox: seccomp sandbox violation: pid 4761, tid 4761, syscall 262, args 26 140248769291026 140732053078208 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(27, "", 0x7FFEBC084120, 4096)
+Sandbox: seccomp sandbox violation: pid 4761, tid 4761, syscall 262, args 27 140248769291026 140732053078304 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(26, "", 0x7FFE1FE4CD70, 4096)
+Sandbox: seccomp sandbox violation: pid 4777, tid 4777, syscall 262, args 26 140257871536914 140729433509232 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(26, "", 0x7FFE1FE4CC70, 4096)
+Sandbox: seccomp sandbox violation: pid 4777, tid 4777, syscall 262, args 26 140257871536914 140729433508976 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(26, "", 0x7FFE1FE4CCD0, 4096)
+Sandbox: seccomp sandbox violation: pid 4777, tid 4777, syscall 262, args 26 140257871536914 140729433509072 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(28, "", 0x7FFEBC083940, 4096)
+Sandbox: seccomp sandbox violation: pid 4761, tid 4761, syscall 262, args 28 140248769291026 140732053076288 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(26, "", 0x7FFE1FE4C4F0, 4096)
+Sandbox: seccomp sandbox violation: pid 4777, tid 4777, syscall 262, args 26 140257871536914 140729433507056 4096 4096 1.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1617968830524	Marionette	INFO	Listening on port 44325
+1617968830560	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617968834986	Marionette	INFO	Stopped listening on port 44325
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.error: SearchEngineSelector: (new Error("IndexedDB: main/search-config list() IndexedDB:  execute() The application is shutting down", "resource://services-settings/IDBHelpers.jsm", 24))
+console.error: SearchEngineSelector: "Received empty search configuration!"
+console.error: SearchService: "_init: failure initializing search:" (void 0)
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500037
+JavaScript error: resource://gre/modules/SearchService.jsm, line 474: NS_ERROR_FAILURE: SearchService previously failed to initialize
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500037
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500037
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500037
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500037
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500037
+JavaScript error: resource://gre/modules/IndexedDB.jsm, line 370: UnknownError: IDBDatabase.transaction: Can't start IndexedDB transaction during shutdown
+1617968849233	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeyHJhD"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+Sandbox: unsupported fd-relative fstatat(28, "", 0x7FFE49BC2680, 4096)
+Sandbox: seccomp sandbox violation: pid 5046, tid 5046, syscall 262, args 28 140503671001874 140730135488128 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(28, "", 0x7FFE49BC2580, 4096)
+Sandbox: seccomp sandbox violation: pid 5046, tid 5046, syscall 262, args 28 140503671001874 140730135487872 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(28, "", 0x7FFE49BC25E0, 4096)
+Sandbox: seccomp sandbox violation: pid 5046, tid 5046, syscall 262, args 28 140503671001874 140730135487968 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(28, "", 0x7FFE49BC1E00, 4096)
+Sandbox: seccomp sandbox violation: pid 5046, tid 5046, syscall 262, args 28 140503671001874 140730135485952 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(25, "", 0x7FFE782AC4A0, 4096)
+Sandbox: seccomp sandbox violation: pid 5062, tid 5062, syscall 262, args 25 140711557817106 140730914489504 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(25, "", 0x7FFE782AC3A0, 4096)
+Sandbox: seccomp sandbox violation: pid 5062, tid 5062, syscall 262, args 25 140711557817106 140730914489248 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(25, "", 0x7FFE782AC400, 4096)
+Sandbox: seccomp sandbox violation: pid 5062, tid 5062, syscall 262, args 25 140711557817106 140730914489344 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(25, "", 0x7FFE782ABC20, 4096)
+Sandbox: seccomp sandbox violation: pid 5062, tid 5062, syscall 262, args 25 140711557817106 140730914487328 4096 4096 1.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1617968853080	Marionette	INFO	Listening on port 42759
+1617968853150	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.error: SearchEngineSelector: (new Error("IndexedDB: main/search-config list() IndexedDB:  execute() The application is shutting down", "resource://services-settings/IDBHelpers.jsm", 24))
+console.error: SearchEngineSelector: "Received empty search configuration!"
+console.error: SearchService: "_init: failure initializing search:" (void 0)
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500037
+JavaScript error: resource://gre/modules/SearchService.jsm, line 474: NS_ERROR_FAILURE: SearchService previously failed to initialize
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500037
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500037
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500037
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500037
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500037
+JavaScript error: resource://gre/modules/IndexedDB.jsm, line 370: UnknownError: IDBDatabase.transaction: Can't start IndexedDB transaction during shutdown
+1617968859769	Marionette	INFO	Stopped listening on port 42759
+1617968864803	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1uLzJO"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+Sandbox: unsupported fd-relative fstatat(27, "", 0x7FFD59A260F0, 4096)
+Sandbox: seccomp sandbox violation: pid 5215, tid 5215, syscall 262, args 27 140567765861138 140726107267312 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(27, "", 0x7FFD59A25FF0, 4096)
+Sandbox: seccomp sandbox violation: pid 5215, tid 5215, syscall 262, args 27 140567765861138 140726107267056 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(27, "", 0x7FFD59A26050, 4096)
+Sandbox: seccomp sandbox violation: pid 5215, tid 5215, syscall 262, args 27 140567765861138 140726107267152 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(28, "", 0x7FFD59A25870, 4096)
+Sandbox: seccomp sandbox violation: pid 5215, tid 5215, syscall 262, args 28 140567765861138 140726107265136 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(27, "", 0x7FFC547213E0, 4096)
+Sandbox: seccomp sandbox violation: pid 5345, tid 5345, syscall 262, args 27 140707093357330 140721725248480 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(27, "", 0x7FFC547212E0, 4096)
+Sandbox: seccomp sandbox violation: pid 5345, tid 5345, syscall 262, args 27 140707093357330 140721725248224 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(27, "", 0x7FFC54721340, 4096)
+Sandbox: seccomp sandbox violation: pid 5345, tid 5345, syscall 262, args 27 140707093357330 140721725248320 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(27, "", 0x7FFC54720B60, 4096)
+Sandbox: seccomp sandbox violation: pid 5345, tid 5345, syscall 262, args 27 140707093357330 140721725246304 4096 4096 1.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1617968868523	Marionette	INFO	Listening on port 42379
+1617968868615	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617968872280	Marionette	INFO	Stopped listening on port 42379
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+1617968881614	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileek1NhB"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+Sandbox: unsupported fd-relative fstatat(27, "", 0x7FFEC9569320, 4096)
+Sandbox: seccomp sandbox violation: pid 5597, tid 5597, syscall 262, args 27 140354926076690 140732276314912 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(27, "", 0x7FFEC9569220, 4096)
+Sandbox: seccomp sandbox violation: pid 5597, tid 5597, syscall 262, args 27 140354926076690 140732276314656 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(27, "", 0x7FFEC9569280, 4096)
+Sandbox: seccomp sandbox violation: pid 5597, tid 5597, syscall 262, args 27 140354926076690 140732276314752 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(27, "", 0x7FFEC9568AA0, 4096)
+Sandbox: seccomp sandbox violation: pid 5597, tid 5597, syscall 262, args 27 140354926076690 140732276312736 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(27, "", 0x7FFC6FF41BF0, 4096)
+Sandbox: seccomp sandbox violation: pid 5613, tid 5613, syscall 262, args 27 140567536501522 140722186755056 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(27, "", 0x7FFC6FF41AF0, 4096)
+Sandbox: seccomp sandbox violation: pid 5613, tid 5613, syscall 262, args 27 140567536501522 140722186754800 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(27, "", 0x7FFC6FF41B50, 4096)
+Sandbox: seccomp sandbox violation: pid 5613, tid 5613, syscall 262, args 27 140567536501522 140722186754896 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(27, "", 0x7FFC6FF41370, 4096)
+Sandbox: seccomp sandbox violation: pid 5613, tid 5613, syscall 262, args 27 140567536501522 140722186752880 4096 4096 1.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1617968885509	Marionette	INFO	Listening on port 38163
+1617968885539	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 636))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1617969015831	Marionette	INFO	Stopped listening on port 38163
+1617973576071	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecHbNeY"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+Sandbox: unsupported fd-relative fstatat(26, "", 0x7FFFAC006070, 4096)
+Sandbox: seccomp sandbox violation: pid 9774, tid 9774, syscall 262, args 26 140082913141522 140736079093872 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(26, "", 0x7FFC1F54CCC0, 4096)
+Sandbox: seccomp sandbox violation: pid 9692, tid 9692, syscall 262, args 26 139932062524178 140720834137280 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(26, "", 0x7FFFAC005F70, 4096)
+Sandbox: seccomp sandbox violation: pid 9774, tid 9774, syscall 262, args 26 140082913141522 140736079093616 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(26, "", 0x7FFC1F54CBC0, 4096)
+Sandbox: seccomp sandbox violation: pid 9692, tid 9692, syscall 262, args 26 139932062524178 140720834137024 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(26, "", 0x7FFC1F54CC20, 4096)
+Sandbox: unsupported fd-relative fstatat(26, "", 0x7FFFAC005FD0, 4096)
+Sandbox: seccomp sandbox violation: pid 9692, tid 9692, syscall 262, args 26 139932062524178 140720834137120 4096 4096 1.
+Sandbox: seccomp sandbox violation: pid 9774, tid 9774, syscall 262, args 26 140082913141522 140736079093712 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(26, "", 0x7FFFAC0057F0, 4096)
+Sandbox: seccomp sandbox violation: pid 9774, tid 9774, syscall 262, args 26 140082913141522 140736079091696 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(26, "", 0x7FFC1F54C440, 4096)
+Sandbox: seccomp sandbox violation: pid 9692, tid 9692, syscall 262, args 26 139932062524178 140720834135104 4096 4096 1.
+1617973595749	Marionette	INFO	Listening on port 36103
+1617973595830	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: , line 0: uncaught exception: Timeout (j)
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1617973892095	Marionette	INFO	Stopped listening on port 36103
+1617975324798	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAMvuNY"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+Sandbox: unsupported fd-relative fstatat(26, "", 0x7FFDF57736A0, 4096)
+Sandbox: unsupported fd-relative fstatat(26, "", 0x7FFF3A7F65E0, 4096)
+Sandbox: seccomp sandbox violation: pid 11352, tid 11352, syscall 262, args 26 140306621432594 140728721684128 4096 4096 1.
+Sandbox: seccomp sandbox violation: pid 11473, tid 11473, syscall 262, args 26 140302160569106 140734174815712 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(26, "", 0x7FFDF57735A0, 4096)
+Sandbox: unsupported fd-relative fstatat(26, "", 0x7FFF3A7F64E0, 4096)
+Sandbox: seccomp sandbox violation: pid 11352, tid 11352, syscall 262, args 26 140306621432594 140728721683872 4096 4096 1.
+Sandbox: seccomp sandbox violation: pid 11473, tid 11473, syscall 262, args 26 140302160569106 140734174815456 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(26, "", 0x7FFDF5773600, 4096)
+Sandbox: seccomp sandbox violation: pid 11352, tid 11352, syscall 262, args 26 140306621432594 140728721683968 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(26, "", 0x7FFF3A7F6540, 4096)
+Sandbox: seccomp sandbox violation: pid 11473, tid 11473, syscall 262, args 26 140302160569106 140734174815552 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(26, "", 0x7FFDF5772E20, 4096)
+Sandbox: unsupported fd-relative fstatat(26, "", 0x7FFF3A7F5D60, 4096)
+Sandbox: seccomp sandbox violation: pid 11352, tid 11352, syscall 262, args 26 140306621432594 140728721681952 4096 4096 1.
+Sandbox: seccomp sandbox violation: pid 11473, tid 11473, syscall 262, args 26 140302160569106 140734174813536 4096 4096 1.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1617975338123	Marionette	INFO	Listening on port 36117
+1617975338133	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+Exiting due to channel error.
+1617978526308	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMSEQaA"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+Sandbox: unsupported fd-relative fstatat(26, "", 0x7FFC4CBE8480, 4096)
+Sandbox: unsupported fd-relative fstatat(26, "", 0x7FFFCDA78D00, 4096)
+Sandbox: seccomp sandbox violation: pid 14682, tid 14682, syscall 262, args 26 140055918445330 140721596040320 4096 4096 1.
+Sandbox: seccomp sandbox violation: pid 14686, tid 14686, syscall 262, args 26 140670002524946 140736643697920 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(26, "", 0x7FFC4CBE8380, 4096)
+Sandbox: unsupported fd-relative fstatat(26, "", 0x7FFFCDA78C00, 4096)
+Sandbox: seccomp sandbox violation: pid 14682, tid 14682, syscall 262, args 26 140055918445330 140721596040064 4096 4096 1.
+Sandbox: seccomp sandbox violation: pid 14686, tid 14686, syscall 262, args 26 140670002524946 140736643697664 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(26, "", 0x7FFFCDA78C60, 4096)
+Sandbox: seccomp sandbox violation: pid 14686, tid 14686, syscall 262, args 26 140670002524946 140736643697760 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(26, "", 0x7FFC4CBE83E0, 4096)
+Sandbox: seccomp sandbox violation: pid 14682, tid 14682, syscall 262, args 26 140055918445330 140721596040160 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(26, "", 0x7FFFCDA78480, 4096)
+Sandbox: seccomp sandbox violation: pid 14686, tid 14686, syscall 262, args 26 140670002524946 140736643695744 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(26, "", 0x7FFC4CBE7C00, 4096)
+Sandbox: seccomp sandbox violation: pid 14682, tid 14682, syscall 262, args 26 140055918445330 140721596038144 4096 4096 1.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1617978544160	Marionette	INFO	Listening on port 37421
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 636))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+1617978544397	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+console.error: services.settings: 
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xB000D,name=PBackgroundIDBDatabase::Msg_Invalidate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xB000E,name=PBackgroundIDBDatabase::Msg_CloseAfterInvalidationComplete) Channel error: cannot send/recv
+
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1617978594806	Marionette	INFO	Stopped listening on port 37421
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 446: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1617978639597	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile57wJ1c"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1617978971119	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexN3mMT"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+Sandbox: unsupported fd-relative fstatat(27, "", 0x7FFCB62E68D0, 4096)
+Sandbox: seccomp sandbox violation: pid 3395, tid 3395, syscall 262, args 27 140289247183634 140723364980944 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(27, "", 0x7FFCB62E67D0, 4096)
+Sandbox: seccomp sandbox violation: pid 3395, tid 3395, syscall 262, args 27 140289247183634 140723364980688 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(27, "", 0x7FFCB62E6830, 4096)
+Sandbox: seccomp sandbox violation: pid 3395, tid 3395, syscall 262, args 27 140289247183634 140723364980784 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(28, "", 0x7FFCB62E6050, 4096)
+Sandbox: seccomp sandbox violation: pid 3395, tid 3395, syscall 262, args 28 140289247183634 140723364978768 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(27, "", 0x7FFDB86BC0C0, 4096)
+Sandbox: seccomp sandbox violation: pid 3411, tid 3411, syscall 262, args 27 140076565357330 140727697522880 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(27, "", 0x7FFDB86BBFC0, 4096)
+Sandbox: seccomp sandbox violation: pid 3411, tid 3411, syscall 262, args 27 140076565357330 140727697522624 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(27, "", 0x7FFDB86BC020, 4096)
+Sandbox: seccomp sandbox violation: pid 3411, tid 3411, syscall 262, args 27 140076565357330 140727697522720 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(27, "", 0x7FFDB86BB840, 4096)
+Sandbox: seccomp sandbox violation: pid 3411, tid 3411, syscall 262, args 27 140076565357330 140727697520704 4096 4096 1.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1617978977323	Marionette	INFO	Listening on port 35387
+1617978977349	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1617979557628	Marionette	INFO	Stopped listening on port 35387
+1617985729350	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehTDQ3s"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+Sandbox: unsupported fd-relative fstatat(26, "", 0x7FFFE5CC2740, 4096)
+Sandbox: seccomp sandbox violation: pid 7287, tid 7287, syscall 262, args 26 139633406001938 140737048749888 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(26, "", 0x7FFFE5CC2640, 4096)
+Sandbox: seccomp sandbox violation: pid 7287, tid 7287, syscall 262, args 26 139633406001938 140737048749632 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(26, "", 0x7FFFE5CC26A0, 4096)
+Sandbox: seccomp sandbox violation: pid 7287, tid 7287, syscall 262, args 26 139633406001938 140737048749728 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(26, "", 0x7FFDD85833B0, 4096)
+Sandbox: seccomp sandbox violation: pid 7292, tid 7292, syscall 262, args 26 140583435666194 140728233112496 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(26, "", 0x7FFFE5CC1EC0, 4096)
+Sandbox: seccomp sandbox violation: pid 7287, tid 7287, syscall 262, args 26 139633406001938 140737048747712 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(26, "", 0x7FFDD85832B0, 4096)
+Sandbox: seccomp sandbox violation: pid 7292, tid 7292, syscall 262, args 26 140583435666194 140728233112240 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(26, "", 0x7FFDD8583310, 4096)
+Sandbox: seccomp sandbox violation: pid 7292, tid 7292, syscall 262, args 26 140583435666194 140728233112336 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(26, "", 0x7FFDD8582B30, 4096)
+Sandbox: seccomp sandbox violation: pid 7292, tid 7292, syscall 262, args 26 140583435666194 140728233110320 4096 4096 1.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1617985737364	Marionette	INFO	Listening on port 34265
+1617985737383	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 636))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+1617985981381	Marionette	INFO	Stopped listening on port 34265
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1617987708455	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0LKi02"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+Sandbox: unsupported fd-relative fstatat(26, "", 0x7FFE225CA6C0, 4096)
+Sandbox: unsupported fd-relative fstatat(27, "", 0x7FFF0C2E24B0, 4096)
+Sandbox: seccomp sandbox violation: pid 10268, tid 10268, syscall 262, args 26 140686843634450 140729474918080 4096 4096 1.
+Sandbox: seccomp sandbox violation: pid 10372, tid 10372, syscall 262, args 27 140124693390098 140733397738672 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(26, "", 0x7FFE225CA5C0, 4096)
+Sandbox: seccomp sandbox violation: pid 10268, tid 10268, syscall 262, args 26 140686843634450 140729474917824 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(27, "", 0x7FFF0C2E23B0, 4096)
+Sandbox: seccomp sandbox violation: pid 10372, tid 10372, syscall 262, args 27 140124693390098 140733397738416 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(26, "", 0x7FFE225CA620, 4096)
+Sandbox: seccomp sandbox violation: pid 10268, tid 10268, syscall 262, args 26 140686843634450 140729474917920 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(27, "", 0x7FFF0C2E2410, 4096)
+Sandbox: seccomp sandbox violation: pid 10372, tid 10372, syscall 262, args 27 140124693390098 140733397738512 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(27, "", 0x7FFF0C2E1C30, 4096)
+Sandbox: seccomp sandbox violation: pid 10372, tid 10372, syscall 262, args 27 140124693390098 140733397736496 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(26, "", 0x7FFE225C9E40, 4096)
+Sandbox: seccomp sandbox violation: pid 10268, tid 10268, syscall 262, args 26 140686843634450 140729474915904 4096 4096 1.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1617987722270	Marionette	INFO	Listening on port 42957
+1617987722387	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1617987960948	Marionette	INFO	Stopped listening on port 42957
+1617987970870	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaP3aH8"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+Sandbox: unsupported fd-relative fstatat(27, "", 0x7FFD49CE2C00, 4096)
+Sandbox: seccomp sandbox violation: pid 10862, tid 10862, syscall 262, args 27 139779880813330 140725841701888 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(27, "", 0x7FFDD53EFA30, 4096)
+Sandbox: seccomp sandbox violation: pid 10857, tid 10857, syscall 262, args 27 140072736449298 140728181127728 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(27, "", 0x7FFD49CE2B00, 4096)
+Sandbox: seccomp sandbox violation: pid 10862, tid 10862, syscall 262, args 27 139779880813330 140725841701632 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(27, "", 0x7FFDD53EF930, 4096)
+Sandbox: seccomp sandbox violation: pid 10857, tid 10857, syscall 262, args 27 140072736449298 140728181127472 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(27, "", 0x7FFD49CE2B60, 4096)
+Sandbox: seccomp sandbox violation: pid 10862, tid 10862, syscall 262, args 27 139779880813330 140725841701728 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(27, "", 0x7FFDD53EF990, 4096)
+Sandbox: seccomp sandbox violation: pid 10857, tid 10857, syscall 262, args 27 140072736449298 140728181127568 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(27, "", 0x7FFDD53EF1B0, 4096)
+Sandbox: seccomp sandbox violation: pid 10857, tid 10857, syscall 262, args 27 140072736449298 140728181125552 4096 4096 1.
+Sandbox: unsupported fd-relative fstatat(27, "", 0x7FFD49CE2380, 4096)
+Sandbox: seccomp sandbox violation: pid 10862, tid 10862, syscall 262, args 27 139779880813330 140725841699712 4096 4096 1.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1617987987248	Marionette	INFO	Listening on port 33075
+1617987987382	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 636))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://activity-stream/lib/Screenshots.jsm, line 127: TypeError: cache is undefined
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1617988087102	Marionette	INFO	Stopped listening on port 33075

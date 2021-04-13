@@ -1,0 +1,64 @@
+{% extends "base.html" %}
+
+{% block title%} {{ title }} {% endblock %}
+
+{% block content%}
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <div>
+                <div class="text-center mb-4">
+                    <div class="container">
+                        <div class="alerts mt-2">
+                            {% with messages = get_flashed_messages(with_categories=true) %}
+                            <!-- Categories: success (green), info (blue), warning (yellow), danger (red) -->
+                            {% if messages %}
+                            {% for category, message in messages %}
+                            <div class="alert alert-{{ category }} alert-dismissible" role="alert">
+                                <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span
+                                        aria-hidden="true">&times;</span></button>
+                                <!-- <strong>Title</strong> --> {{ message }}
+                            </div>
+                            {% endfor %}
+                            {% endif %}
+                            {% endwith %}
+                        </div>
+                        <h3 style="text-align: center;">Crawled Profiles for Authors from CU</h3>
+                        <div class="row mt-1">
+                            {%for author in authorpack%}
+                            <div class="col-sm-4">
+                                <img src="{{author[0]}}" alt="{{ author[1] }}">
+                            </div>
+                            <div class="col-sm-6" style="text-align: left;list-style: none;">
+
+                                <label><a href="{{ author[2] }}">{{ author[1] }}</a></label>
+                                <li> {{ author[3] }}</li>
+                                <li> {{ author[4] }}</li>
+                                <li> {{ author[5] }}</li>
+                                <li> {{ author[6] }}</li>
+
+                                <p>Papers by {{ author[1] }} </p>
+
+                                {%for i in author[7] %}
+
+                                <ul style="list-style:disc;">
+                                    <li>{{ i | safe }} </li>
+                                </ul>
+                                
+                                {%endfor%}
+
+                                <hr class="clear">
+                            </div>
+
+                            {%endfor%}
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+{% endblock%}

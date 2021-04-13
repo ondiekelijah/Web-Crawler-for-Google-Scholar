@@ -1,0 +1,43 @@
+{% extends "base.html" %}
+
+{% block title%} {{ title }} {% endblock %}
+
+{% block content%}
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <div>
+                <div class="text-center mb-4">
+                    <h3> {{label}} </h3>
+
+                    <div class="alerts mt-2">
+                        {% with messages = get_flashed_messages(with_categories=true) %}
+                        <!-- Categories: success (green), info (blue), warning (yellow), danger (red) -->
+                        {% if messages %}
+                        {% for category, message in messages %}
+                        <div class="alert alert-{{ category }} alert-dismissible" role="alert">
+                            <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span
+                                    aria-hidden="true">&times;</span></button>
+                            <!-- <strong>Title</strong> --> {{ message }}
+                        </div>
+                        {% endfor %}
+                        {% endif %}
+                        {% endwith %}
+                    </div>
+
+                    <div class="w3-container">
+                        <form action="{{ request.path }}" method="POST">
+                            {{ form.text(class_="w3-input w3-border",placeholder="Search...")}}
+                            <button class="w3-btn w3-blue w3-border" type="submit">Search</button>
+
+                        </form>
+                        <h2 style="text-align: center; text-decoration: underline; margin-top:20% ;">Designed by Muhammad Sarmad Anwar</h2>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+{% endblock%}

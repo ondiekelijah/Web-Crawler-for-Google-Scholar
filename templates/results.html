@@ -1,0 +1,64 @@
+{% extends "base.html" %}
+
+{% block title%} {{ title }} {% endblock %}
+
+{% block content%}
+
+<div class="w3-container">
+    <div class="row">
+        <div class="col-sm-12" style="text-align: center;">
+            <div class="alerts mt-2">
+                {% with messages = get_flashed_messages(with_categories=true) %}
+                <!-- Categories: success (green), info (blue), warning (yellow), danger (red) -->
+                {% if messages %}
+                {% for category, message in messages %}
+                <div class="alert alert-{{ category }} alert-dismissible" role="alert">
+                    <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span
+                            aria-hidden="true">&times;</span></button>
+                    <!-- <strong>Title</strong> --> {{ message }}
+                </div>
+                {% endfor %}
+                {% endif %}
+                {% endwith %}
+            </div>
+        </div>
+    </div>
+    
+    <div class="row mt-3">
+        {%for article in articlepack%}
+        
+        <div class="col-sm-2"></div>
+
+        <div class="col-sm-6" style="text-align: left;list-style: none; ">
+
+            <br>
+            <li> <a href="{{ article[1] }}">{{ article[0] }}</a> </li>
+            <li> {{ article[2] }}</li>
+            <li>{{ article[3] }}</li>
+            <label for=""> <a href="{{ article[5] }}">Cite</a> </label>
+            <li><a href="{{ article[6] }}"> {{ article[4] }}</a> </li>
+            <li> {{article[7]}} </li>
+
+            <hr class="clear">
+        </div>
+        <div class="col-sm-4"></div>
+
+        {%endfor%}
+    </div>
+
+    <!-- For later modification,when a button is clicked,the value is sent to the crawler-this value is the next pages'
+         url which is then crawled and result rendered -->
+
+    <!-- <div class="container">
+        <div class="col-ms-12 text-center py-3">
+            <p>Next Pages</p>
+            <form action="{{ request.path }}" method="post">
+                {%for page in next_pages%}
+                <button type="submit" value="{{ page }}" name="next"> * </button>
+                {%endfor%}
+            </form>
+        </div>
+    </div> -->
+</div>
+
+{% endblock%}

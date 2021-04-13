@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="{{url_for('static',filename='js/jquery.js')}}"></script>
+
+    <link rel="stylesheet" href="{{url_for('static',filename='css/bootstrap.css')}}">
+    <link rel="stylesheet" href="{{url_for('static',filename='css/w3.css')}}">
+    <link rel="stylesheet" href="{{url_for('static',filename='css/index.css')}}">
+    <script src="{{url_for('static',filename='js/index.js')}}"></script>
+    <script src="{{url_for('static',filename='js/bootstrap.js')}}"></script>
+
+
+    <title> {% block title%} {% endblock %} </title>
+</head>
+
+<body>
+
+    <div class="w3-bar w3-border w3-center">
+
+        <a href="{{ url_for('search') }}" style="width:50%" class="w3-bar-item w3-button w3-hide-small "
+            type="submit"><i class="fa fa-question-circle-o mr-2" aria-hidden="true"></i>
+            Google Scholar Crawler
+        </a>
+        <a href="{{ url_for('index') }}" style="width:50%" class="w3-bar-item w3-button w3-hide-small " type="submit"><i
+                class="fa fa-question-circle-o mr-2" aria-hidden="true"></i>
+            Coventry University Author Profiles
+        </a>
+        <a href="javascript:void(0)" class="w3-bar-item w3-button w3-right w3-hide-large w3-hide-medium"
+            onclick="myFunction()">&#9776;</a>
+    </div>
+
+    <div id="demo" class="w3-bar-block  w3-hide w3-hide-large w3-hide-medium">
+        <a href="{{ url_for('search') }}" class="w3-bar-item w3-button " type="submit"><i
+                class="fa fa-question-circle-o" aria-hidden="true"></i>
+            Google Scholar Crawler
+        </a>
+        <a href="{{ url_for('index') }}" class="w3-bar-item w3-button " type="submit"><i class="fa fa-question-circle-o"
+                aria-hidden="true"></i>
+            Coventry University Author Profiles
+        </a>
+    </div>
+
+    {% block content%}
+    {% endblock %}
+
+</body>
+
+</html>

@@ -1,0 +1,1588 @@
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2021 21:09:09] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2021 21:09:09] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2021 21:09:10] "[37mGET /static/js/index.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2021 21:11:20] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2021 21:11:20] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2021 21:11:20] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2021 21:11:20] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2021 21:11:20] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2021 21:11:20] "[37mGET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2021 21:11:21] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2021 21:15:16] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2021 21:15:16] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2021 21:15:21] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2021 21:15:21] "[37mGET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2021 21:18:31] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Mar/2021 21:19:26] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2021 16:08:39] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2021 16:08:39] "[36mGET /static/js/jquery.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2021 16:08:39] "[36mGET /static/css/bootstrap.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2021 16:08:39] "[36mGET /static/css/w3.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2021 16:08:39] "[36mGET /static/css/index.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2021 16:08:39] "[36mGET /static/js/index.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2021 16:08:39] "[36mGET /static/js/bootstrap.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2021 16:08:39] "[36mGET /static/images/wallhaven-v9mg65_2560x1080.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2021 16:08:39] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2021 16:10:18] "[37mGET /profiles HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2021 16:10:18] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2021 16:15:57] "[37mGET /profiles HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2021 16:15:58] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/index.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2021 16:35:10] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2021 16:35:10] "[37mGET /static/js/index.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2021 16:35:11] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2021 22:26:18] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2021 22:26:22] "[37mGET /static/css/index.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2021 22:26:22] "[37mGET /static/js/index.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2021 22:26:22] "[37mGET /static/css/w3.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2021 22:26:22] "[36mGET /static/js/jquery.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2021 22:26:22] "[37mGET /static/css/bootstrap.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2021 22:26:22] "[36mGET /static/js/bootstrap.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2021 22:26:23] "[36mGET /static/images/wallhaven-v9mg65_2560x1080.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2021 22:26:23] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2021 22:41:55] "[37mGET /static/css/index.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2021 22:41:55] "[37mGET /static/css/index.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2021 22:41:55] "[37mGET /static/css/w3.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2021 22:41:55] "[37mGET /static/css/w3.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2021 22:41:55] "[37mGET /static/css/w3.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2021 22:41:56] "[37mGET /static/css/bootstrap.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2021 22:41:56] "[37mGET /static/css/bootstrap.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2021 22:41:56] "[37mGET /static/css/bootstrap.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2021 22:41:58] "[33mGET /static/css/bootstrap.min.css.map HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2021 22:41:58] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2021 22:56:01] "[37mGET /static/css/index.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2021 22:56:01] "[37mGET /static/css/w3.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2021 22:56:01] "[37mGET /static/css/bootstrap.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2021 22:56:01] "[37mGET /static/js/index.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2021 22:56:02] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2021 23:24:15] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2021 23:24:16] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2021 23:24:16] "[37mGET /static/js/index.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Apr/2021 23:25:56] "[37mGET /profiles HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2021 10:02:38] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2021 10:02:39] "[37mGET /static/js/index.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2021 10:02:39] "[37mGET /static/css/w3.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2021 10:02:39] "[37mGET /static/css/index.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2021 10:02:39] "[37mGET /static/css/bootstrap.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2021 21:02:20] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2021 21:02:20] "[37mGET /static/css/index.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2021 21:02:20] "[37mGET /static/js/index.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2021 21:02:20] "[36mGET /static/js/jquery.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2021 21:02:20] "[37mGET /static/css/w3.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2021 21:02:20] "[37mGET /static/css/bootstrap.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2021 21:02:21] "[36mGET /static/js/bootstrap.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2021 21:02:21] "[36mGET /static/images/wallhaven-v9mg65_2560x1080.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2021 21:02:21] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/forms.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2021 22:29:33] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2021 22:57:57] "[37mGET /profiles HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2021 22:57:59] "[37mGET /static/js/index.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2021 22:57:59] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2021 23:26:52] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2021 23:27:34] "[37mGET /profiles HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2021 23:28:05] "[37mGET /profiles HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2021 23:48:28] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2021 23:48:28] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [03/Apr/2021 23:48:45] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 14:31:02] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 14:31:02] "[37mGET /static/js/index.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 14:31:02] "[37mGET /static/js/jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 14:31:02] "[37mGET /static/js/bootstrap.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 14:31:02] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 14:32:06] "[37mGET /profiles HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 15:04:36] "[37mGET /test HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 15:04:36] "[37mGET /static/js/jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 15:04:36] "[37mGET /static/js/bootstrap.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 15:04:36] "[37mGET /static/js/index.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 15:04:36] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 15:20:01] "[37mGET /static/css/bootstrap.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 15:20:01] "[37mGET /static/css/index.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 15:20:01] "[37mGET /static/css/w3.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 15:20:04] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 15:20:28] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 15:20:28] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 15:20:28] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 15:20:28] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 15:20:29] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 15:20:29] "[37mGET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 15:20:29] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 15:21:12] "[37mGET /test HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 15:23:21] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 15:24:01] "[37mGET /profiles HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 15:24:30] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 15:24:45] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 15:31:56] "[35m[1mGET /test HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 15:31:56] "[37mGET /test?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 15:31:56] "[37mGET /test?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 15:31:56] "[37mGET /test?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 15:31:56] "[37mGET /test?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 15:35:33] "[35m[1mGET /test HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 15:35:34] "[37mGET /test?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 15:35:34] "[37mGET /test?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 15:35:34] "[37mGET /test?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 15:35:34] "[37mGET /test?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 15:37:11] "[35m[1mGET /test HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 15:37:11] "[37mGET /test?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 15:37:11] "[37mGET /test?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 15:37:11] "[37mGET /test?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 15:37:11] "[37mGET /test?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 15:38:34] "[37mGET /test HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 15:38:34] "[37mGET /static/css/w3.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 15:38:34] "[37mGET /static/css/bootstrap.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 15:38:34] "[37mGET /static/css/index.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 15:38:34] "[37mGET /static/images/wallhaven-v9mg65_2560x1080.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 15:38:34] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 15:48:15] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 15:48:15] "[37mGET /static/js/index.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 15:48:15] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 15:48:45] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 15:48:45] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 15:48:45] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 15:48:45] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 15:48:45] "[37mGET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 15:48:45] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 15:49:17] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 15:49:37] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 15:49:37] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 15:49:37] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 15:49:37] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 15:49:37] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 15:50:55] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 15:51:34] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 15:52:22] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 15:53:00] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 15:55:09] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 15:55:47] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 15:57:23] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 15:57:37] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 15:57:37] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 15:57:37] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 15:57:37] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 15:57:38] "[37mGET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 15:57:38] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 15:58:23] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 15:58:44] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 15:58:44] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 15:58:44] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 15:58:44] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 15:58:45] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 15:59:56] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 15:59:56] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 16:00:38] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 16:01:49] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 16:01:49] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 16:02:23] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 16:04:02] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 16:04:40] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 16:04:40] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 16:04:40] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 16:04:40] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 16:04:40] "[37mGET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 16:04:41] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 16:05:31] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 16:06:14] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 16:07:09] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 16:07:52] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 16:10:19] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 16:16:34] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 16:16:34] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 16:16:56] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 16:16:57] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 16:17:34] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 16:17:51] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 16:18:31] "[37mGET /profiles HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 16:18:33] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 16:18:46] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 16:19:02] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 16:29:36] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 16:29:37] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 16:29:39] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 16:29:58] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 16:31:40] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 16:33:00] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 16:38:30] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 16:38:30] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 16:38:32] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 16:38:54] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 16:38:54] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 16:39:35] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 16:40:05] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 16:48:24] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 16:48:24] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 16:48:38] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 16:48:46] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 17:15:49] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 17:15:50] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 17:16:43] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 17:31:20] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 17:31:38] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 17:32:03] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 17:57:22] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 17:59:07] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 18:02:12] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 18:03:30] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 18:09:01] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 18:09:02] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 18:09:02] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 18:09:02] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 18:09:02] "[37mGET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 18:09:03] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 18:09:36] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 18:10:27] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 18:11:09] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 18:13:26] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 18:14:41] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 18:15:32] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 18:15:32] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 18:15:32] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 18:15:32] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 18:15:32] "[37mGET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 18:15:33] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 18:15:47] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 18:16:16] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 18:16:16] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 18:16:16] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 18:16:16] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 18:16:17] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 18:23:31] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 18:24:09] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 18:39:58] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 18:39:58] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 18:41:25] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 18:42:06] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 18:42:06] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 18:43:17] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 18:43:17] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 18:49:39] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 18:49:39] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 18:49:39] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 18:53:47] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 18:54:06] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 18:54:06] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 18:55:26] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 18:56:02] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 19:06:02] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 19:06:28] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 19:06:28] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 19:06:28] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 19:06:28] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 19:06:28] "[37mGET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 19:06:29] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 19:10:36] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 19:11:12] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 19:11:12] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 19:11:12] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 19:11:12] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 19:11:12] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 19:11:12] "[37mGET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 19:11:13] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 19:12:52] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 19:13:15] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 19:13:15] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 19:13:15] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 19:13:15] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 19:13:15] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 19:16:19] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 19:16:31] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 19:16:31] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 19:16:31] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 19:16:31] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 19:16:31] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 19:17:38] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 19:17:38] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 19:17:55] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 19:17:55] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 19:17:55] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 19:17:55] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 19:17:55] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 19:18:23] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 19:18:41] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 19:18:41] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 19:18:41] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 19:18:41] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 19:18:41] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2021 19:22:02] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2021 15:35:42] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2021 15:35:43] "[36mGET /static/js/jquery.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2021 15:35:43] "[37mGET /static/css/index.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2021 15:35:43] "[37mGET /static/js/index.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2021 15:35:43] "[37mGET /static/css/bootstrap.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2021 15:35:43] "[37mGET /static/css/w3.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2021 15:35:43] "[36mGET /static/js/bootstrap.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2021 15:35:43] "[36mGET /static/images/wallhaven-v9mg65_2560x1080.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2021 15:35:43] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2021 15:35:54] "[35m[1mGET /profiles HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2021 15:35:54] "[37mGET /profiles?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2021 15:35:54] "[37mGET /profiles?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2021 15:35:54] "[37mGET /profiles?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2021 15:35:54] "[37mGET /profiles?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2021 15:35:54] "[37mGET /profiles?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2021 15:35:55] "[37mGET /profiles?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2021 15:37:02] "[35m[1mGET /profiles HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2021 15:37:02] "[37mGET /profiles?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2021 15:37:02] "[37mGET /profiles?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2021 15:37:02] "[37mGET /profiles?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2021 15:37:02] "[37mGET /profiles?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2021 15:38:12] "[37mGET /profiles HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2021 15:38:12] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2021 15:38:18] "[37mGET /profiles HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2021 15:38:25] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2021 15:38:28] "[37mGET /profiles HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2021 15:38:36] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2021 15:50:59] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2021 15:51:28] "[37mGET /profiles HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2021 15:51:39] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2021 15:52:47] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2021 16:00:28] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2021 16:00:29] "[37mGET /static/js/jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2021 16:00:30] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2021 16:00:33] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2021 16:00:33] "[37mGET /static/js/jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2021 16:00:33] "[37mGET /static/js/index.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2021 16:00:33] "[37mGET /static/css/index.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2021 16:00:33] "[37mGET /static/css/w3.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2021 16:00:33] "[37mGET /static/js/bootstrap.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2021 16:00:33] "[37mGET /static/css/bootstrap.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2021 16:00:34] "[37mGET /static/images/wallhaven-v9mg65_2560x1080.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2021 16:00:34] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2021 16:00:45] "[37mGET /profiles HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2021 16:02:22] "[37mGET /profiles HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2021 16:03:26] "[33mGET /search HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [07/Apr/2021 16:03:28] "[33mGET /search HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 17:19:35] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 17:19:35] "[36mGET /static/js/index.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 17:19:35] "[36mGET /static/js/bootstrap.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 17:19:35] "[37mGET /static/css/index.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 17:19:35] "[37mGET /static/css/w3.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 17:19:35] "[37mGET /static/css/bootstrap.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 17:19:35] "[37mGET /static/js/jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 17:19:36] "[36mGET /static/images/wallhaven-v9mg65_2560x1080.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 17:20:11] "[37mGET /profiles HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 17:27:24] "[37mGET /profiles HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 17:28:44] "[37mGET /profiles HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 17:40:34] "[35m[1mGET /profiles HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 17:40:34] "[37mGET /profiles?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 17:40:34] "[37mGET /profiles?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 17:40:34] "[37mGET /profiles?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 17:40:34] "[37mGET /profiles?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 17:40:34] "[37mGET /profiles?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 17:40:35] "[37mGET /profiles?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 17:44:19] "[37mGET /profiles HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 17:44:19] "[37mGET /static/js/index.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 17:44:19] "[37mGET /static/js/jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 17:44:19] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 17:49:39] "[37mGET /profiles HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 17:49:39] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 18:15:54] "[37mGET /profiles HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 18:15:55] "[37mGET /static/js/index.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 18:15:55] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 18:18:34] "[37mGET /profiles HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 18:18:34] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 18:19:53] "[37mGET /profiles HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 18:22:01] "[35m[1mGET /profiles HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 18:22:01] "[37mGET /profiles?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 18:22:01] "[37mGET /profiles?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 18:22:01] "[37mGET /profiles?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 18:22:01] "[37mGET /profiles?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 18:22:01] "[37mGET /profiles?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 18:22:02] "[37mGET /profiles?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 18:23:59] "[37mGET /profiles HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 18:27:01] "[37mGET /profiles HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 18:47:33] "[37mGET /profiles HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 18:47:33] "[37mGET /static/js/index.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 18:47:34] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 18:50:12] "[37mGET /profiles HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 18:53:28] "[37mGET /profiles HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 18:54:56] "[37mGET /profiles HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 18:56:43] "[37mGET /profiles HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 19:09:05] "[37mGET /profiles HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 19:09:05] "[37mGET /static/js/index.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 19:09:05] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 19:10:57] "[37mGET /profiles HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 19:10:58] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 19:13:38] "[37mGET /profiles HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 19:13:38] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 19:16:08] "[37mGET /profiles HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 19:16:10] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 19:22:19] "[37mGET /profiles HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 19:25:36] "[37mGET /profiles HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 19:32:53] "[37mGET /profiles HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 19:41:22] "[35m[1mGET /profiles HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 19:41:22] "[37mGET /profiles?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 19:41:22] "[37mGET /profiles?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 19:41:22] "[37mGET /profiles?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 19:41:22] "[37mGET /profiles?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 19:41:22] "[37mGET /profiles?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 19:42:31] "[35m[1mGET /profiles HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 19:42:31] "[37mGET /profiles?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 19:42:31] "[37mGET /profiles?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 19:42:31] "[37mGET /profiles?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 19:42:32] "[37mGET /profiles?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 19:44:03] "[35m[1mGET /profiles HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 19:44:03] "[37mGET /profiles?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 19:44:03] "[37mGET /profiles?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 19:44:03] "[37mGET /profiles?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 19:44:04] "[37mGET /profiles?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 19:46:12] "[35m[1mGET /profiles HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 19:46:13] "[37mGET /profiles?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 19:46:13] "[37mGET /profiles?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 19:46:13] "[37mGET /profiles?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 19:46:13] "[37mGET /profiles?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 19:47:36] "[35m[1mGET /profiles HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 19:47:36] "[37mGET /profiles?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 19:47:36] "[37mGET /profiles?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 19:47:36] "[37mGET /profiles?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 19:47:36] "[37mGET /profiles?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 19:56:32] "[37mGET /profiles HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 19:57:56] "[37mGET /profiles HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 20:01:54] "[37mGET /profiles HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 20:04:36] "[37mGET /profiles HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 20:09:58] "[37mGET /profiles HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 20:09:58] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 20:13:37] "[37mGET /profiles HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 20:15:29] "[37mGET /profiles HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 20:18:44] "[37mGET /profiles HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 20:20:27] "[37mGET /profiles HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 20:31:13] "[37mGET /profiles HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 20:35:49] "[37mGET /profiles HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 20:35:49] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 20:38:51] "[37mGET /static/css/index.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 20:38:51] "[37mGET /static/css/w3.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 20:38:52] "[37mGET /static/css/bootstrap.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 20:38:52] "[37mGET /static/js/index.js HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/pages.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/pages.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 20:43:51] "[35m[1mGET /profiles HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 20:43:51] "[37mGET /profiles?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 20:43:51] "[37mGET /profiles?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 20:43:51] "[37mGET /profiles?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 20:43:52] "[37mGET /profiles?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 20:43:52] "[37mGET /profiles?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 20:45:24] "[35m[1mGET /profiles HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 20:45:24] "[37mGET /profiles?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 20:45:24] "[37mGET /profiles?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 20:45:24] "[37mGET /profiles?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 20:45:24] "[37mGET /profiles?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 20:45:27] "[35m[1mGET /profiles HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 20:45:27] "[37mGET /profiles?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 20:45:27] "[37mGET /profiles?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 20:45:27] "[37mGET /profiles?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 20:45:27] "[37mGET /profiles?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 20:48:48] "[37mGET /profiles HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 20:48:49] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 20:49:24] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 20:49:55] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 20:49:55] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 21:33:10] "[37mGET /profiles HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 21:33:11] "[37mGET /static/css/bootstrap.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 21:33:11] "[37mGET /static/js/index.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 21:33:11] "[37mGET /static/css/index.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 21:33:11] "[37mGET /static/css/w3.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Apr/2021 21:33:11] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/pages.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 13:17:27] "[35m[1mGET /profiles HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 13:17:29] "[37mGET /profiles?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 13:17:29] "[37mGET /profiles?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 13:17:29] "[37mGET /profiles?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 13:17:29] "[37mGET /profiles?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 13:17:29] "[37mGET /profiles?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 13:17:29] "[37mGET /profiles?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 13:17:58] "[37mGET /profiles HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 13:17:58] "[37mGET /static/js/index.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 13:17:58] "[37mGET /static/css/index.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 13:17:58] "[37mGET /static/css/w3.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 13:17:58] "[37mGET /static/css/bootstrap.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 13:17:58] "[36mGET /static/js/jquery.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 13:17:58] "[36mGET /static/js/bootstrap.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 13:17:58] "[36mGET /static/images/wallhaven-v9mg65_2560x1080.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 13:17:58] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/pages.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 13:21:19] "[37mGET /profiles HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 13:21:19] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/pages.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/pages.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/pages.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/pages.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/pages.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/pages.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 13:23:25] "[37mGET /profiles HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/pages.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/pages.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 13:28:11] "[37mGET /profiles HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 13:28:11] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 13:29:24] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 13:31:04] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 13:31:04] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 13:39:47] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 13:40:24] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 13:40:24] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 13:40:24] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 13:40:24] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 13:40:24] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 13:40:24] "[37mGET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 13:40:25] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 13:43:41] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 13:44:24] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 13:45:28] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 13:46:06] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 13:48:23] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 13:49:25] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 13:49:25] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 13:58:24] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 13:58:24] "[37mGET /static/js/index.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 13:58:24] "[37mGET /static/js/bootstrap.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 13:58:24] "[37mGET /static/css/index.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 13:58:24] "[37mGET /static/css/w3.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 13:58:24] "[37mGET /static/css/bootstrap.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 13:58:24] "[37mGET /static/js/jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 13:58:24] "[37mGET /static/images/wallhaven-v9mg65_2560x1080.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 13:58:24] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 14:01:40] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 14:01:40] "[37mGET /static/css/index.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 14:01:40] "[37mGET /static/js/index.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 14:01:40] "[37mGET /static/css/w3.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 14:01:40] "[37mGET /static/js/bootstrap.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 14:01:40] "[37mGET /static/js/jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 14:01:40] "[37mGET /static/css/bootstrap.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 14:01:40] "[37mGET /static/images/wallhaven-v9mg65_2560x1080.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 14:01:40] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 14:03:47] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 14:03:47] "[37mGET /static/js/index.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 14:03:47] "[37mGET /static/js/jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 14:03:47] "[37mGET /static/css/bootstrap.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 14:03:47] "[37mGET /static/js/bootstrap.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 14:03:47] "[37mGET /static/css/w3.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 14:03:47] "[37mGET /static/css/index.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 14:03:47] "[37mGET /static/images/wallhaven-v9mg65_2560x1080.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 14:03:47] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 14:06:00] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 14:06:00] "[37mGET /static/js/jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 14:06:00] "[37mGET /static/css/bootstrap.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 14:06:00] "[37mGET /static/css/w3.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 14:06:00] "[37mGET /static/css/index.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 14:06:00] "[37mGET /static/js/index.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 14:06:00] "[37mGET /static/js/bootstrap.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 14:06:00] "[37mGET /static/images/wallhaven-v9mg65_2560x1080.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 14:06:00] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 14:16:58] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 14:17:33] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 14:23:24] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 14:23:48] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 14:26:53] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 14:27:35] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 14:27:35] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 14:27:35] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 14:27:35] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 14:27:35] "[37mGET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 14:27:35] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 14:29:33] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 14:30:07] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 14:30:07] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 14:30:07] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 14:30:07] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 14:30:08] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 14:31:10] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 14:31:36] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 14:34:33] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 14:34:50] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 14:39:35] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 14:39:59] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 14:40:32] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 14:40:48] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 14:43:42] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 14:44:04] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 14:45:58] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 14:50:15] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 14:50:16] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 14:50:16] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 14:50:16] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 14:50:16] "[37mGET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 14:50:16] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 14:50:53] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 14:54:35] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 14:54:58] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 14:55:21] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 14:57:48] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 14:57:56] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 15:00:22] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 15:00:37] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 15:05:03] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 15:07:12] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 15:08:40] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 15:09:13] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 15:09:28] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 15:11:15] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 15:11:24] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 15:13:01] "[37mGET /profiles HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 15:13:11] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 15:14:34] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 15:14:51] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 15:17:31] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 15:17:31] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 15:17:31] "[37mGET /static/js/index.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 15:19:11] "[37mGET /profiles HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 15:21:26] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 15:21:39] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 15:21:50] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 15:23:52] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 15:24:03] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 15:25:13] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 15:26:27] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 15:26:27] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 15:26:57] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 15:27:33] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 15:27:33] "[37mGET /static/js/index.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 15:27:33] "[37mGET /static/js/jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 15:27:33] "[37mGET /static/js/bootstrap.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 15:27:33] "[37mGET /static/css/bootstrap.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 15:27:33] "[37mGET /static/css/index.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 15:27:33] "[37mGET /static/css/w3.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 15:27:33] "[37mGET /static/images/wallhaven-v9mg65_2560x1080.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 15:27:34] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 15:27:43] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 15:34:44] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 15:34:53] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 15:36:11] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 15:48:13] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 15:48:13] "[37mGET /static/js/index.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 15:48:13] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 15:48:28] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 15:48:34] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 15:51:17] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 15:53:58] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 15:54:36] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 15:56:22] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 15:56:40] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 15:58:27] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 15:58:57] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 16:00:04] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 16:01:11] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 16:02:26] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 16:04:28] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 16:05:13] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/pages.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 16:12:54] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 16:12:55] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 16:14:36] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 16:14:37] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 16:21:37] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 16:34:11] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 16:38:06] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 16:38:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 16:39:33] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 16:44:04] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 16:44:18] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 16:45:21] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 17:27:16] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 17:27:16] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 17:34:38] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 17:34:41] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 17:34:41] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 17:38:10] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 17:58:16] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 18:08:16] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 18:08:16] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 18:08:16] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 18:08:16] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 18:08:16] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 18:08:16] "[37mGET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 18:08:17] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 19:26:10] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 19:26:12] "[37mGET /static/css/w3.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 19:26:12] "[37mGET /static/css/bootstrap.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 19:26:12] "[37mGET /static/js/index.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 19:26:12] "[37mGET /static/css/index.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 19:26:12] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 19:34:32] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 19:34:32] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 19:34:32] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 19:34:32] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 19:34:33] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 19:34:33] "[37mGET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 19:34:33] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 19:35:39] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 19:35:39] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 19:41:02] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 19:42:48] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 19:45:33] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 19:45:33] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 19:45:33] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 19:45:33] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 19:45:33] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 19:45:33] "[37mGET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 19:45:33] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 19:45:49] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 19:46:12] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 19:47:15] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 19:47:28] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 19:47:53] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 19:49:23] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 19:54:33] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 19:54:33] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 19:54:33] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 19:54:33] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 19:54:33] "[37mGET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 19:54:33] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 19:57:04] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 19:58:31] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 19:59:47] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 19:59:47] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 19:59:53] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 20:10:19] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 20:10:20] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 20:14:31] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 20:15:12] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 20:20:22] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 20:20:23] "[37mGET /static/css/index.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 20:20:23] "[37mGET /static/css/bootstrap.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 20:20:23] "[37mGET /static/js/index.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 20:20:23] "[37mGET /static/css/w3.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 20:20:30] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 20:20:47] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 20:24:48] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 20:24:48] "[37mGET /static/js/index.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 20:25:47] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 20:26:55] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 20:27:29] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 20:27:56] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 20:33:25] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 20:38:27] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 20:45:01] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 20:45:02] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 20:47:07] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 20:47:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 20:47:50] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 20:49:24] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 20:50:48] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 20:53:53] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 20:53:53] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 20:53:53] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 20:53:53] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 20:53:54] "[37mGET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 20:53:54] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 20:57:19] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 20:57:19] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Apr/2021 20:58:27] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2021 15:49:06] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2021 15:49:09] "[37mGET /static/css/index.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2021 15:49:09] "[37mGET /static/js/index.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2021 15:49:09] "[37mGET /static/css/bootstrap.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2021 15:49:09] "[37mGET /static/css/w3.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2021 15:49:09] "[36mGET /static/js/jquery.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2021 15:49:10] "[36mGET /static/js/bootstrap.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2021 15:49:10] "[36mGET /static/images/wallhaven-v9mg65_2560x1080.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2021 15:49:10] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2021 15:57:58] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2021 16:00:28] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2021 16:00:30] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2021 16:00:30] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2021 16:00:30] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2021 16:00:31] "[37mGET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2021 16:00:31] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2021 16:00:32] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2021 16:02:25] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2021 16:23:15] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2021 16:25:37] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2021 16:30:37] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2021 16:46:29] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/pages.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2021 17:03:52] "[37mGET /profiles HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2021 17:03:53] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/pages.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/pages.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/pages.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/pages.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2021 17:27:38] "[37mGET /profiles HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2021 17:27:38] "[37mGET /static/js/index.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2021 17:27:38] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/pages.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/pages.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2021 17:32:32] "[37mGET /profiles HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2021 17:32:35] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/pages.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/pages.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2021 17:34:08] "[37mGET /profiles HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2021 17:48:58] "[37mGET /profiles HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2021 17:48:59] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2021 17:55:26] "[37mGET /profiles HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Apr/2021 17:55:27] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/pages.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2021 15:25:57] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2021 15:25:57] "[37mGET /static/js/index.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2021 15:25:57] "[36mGET /static/js/jquery.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2021 15:25:57] "[37mGET /static/css/index.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2021 15:25:57] "[37mGET /static/css/w3.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2021 15:25:58] "[37mGET /static/css/bootstrap.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2021 15:25:58] "[36mGET /static/js/bootstrap.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2021 15:25:58] "[36mGET /static/images/wallhaven-v9mg65_2560x1080.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2021 15:25:58] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2021 15:27:28] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2021 15:39:39] "[37mGET /profiles HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/eli/PROJECTS/Web_Crawler/main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
